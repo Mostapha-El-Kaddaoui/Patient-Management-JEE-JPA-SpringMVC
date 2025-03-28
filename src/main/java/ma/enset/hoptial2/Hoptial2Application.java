@@ -44,9 +44,9 @@ public class Hoptial2Application {
                     .malade(true)
                     .build();
              */
-            patientRepository.save(new Patient(null,"Yahya 1",new Date(), false,20));
-            patientRepository.save(new Patient(null,"Yahya 2",new Date(), false,20));
-            patientRepository.save(new Patient(null,"Yahya 3",new Date(), false,20));
+            patientRepository.save(new Patient(null,"Yahya",new Date(), false,20));
+            patientRepository.save(new Patient(null,"Khalid",new Date(), false,20));
+            patientRepository.save(new Patient(null,"Bachir",new Date(), false,20));
         };
     }
 }
