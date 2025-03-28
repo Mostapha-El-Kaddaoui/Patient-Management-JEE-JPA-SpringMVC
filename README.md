@@ -9,6 +9,7 @@ This is a simple Spring Boot application for managing patients in a hospital. It
 - Spring Data JPA
 - Thymeleaf
 - MYSQL and H2 Database (or any JPA-compatible database)
+- HTML & BOOTSTRAP
 
 ## Project Structure
 - **Entities**: Defines the `Patient` entity
